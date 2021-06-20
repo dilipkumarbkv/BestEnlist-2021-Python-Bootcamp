@@ -5,4 +5,5 @@ Day3: Task on Tkinter, check code and make corrections to the code to get a form
 Day4: Task was on variables and datatypes.
 Day5: Task was on Lists and Tuples and the functions around them.
 Day6: Task is on Dictioanries and sets.
-Day7:
+Day7: Functions.
+Day8: Tasks on all covered topics. 
