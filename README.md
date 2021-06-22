@@ -8,4 +8,5 @@ Day6: Task is on Dictioanries and sets.
 Day7: Functions.
 Day8: Tasks on all covered topics. 
 Day9: Excercises covering different programs.
-Day10:
+Day10: Inheritance.
+Day11:
