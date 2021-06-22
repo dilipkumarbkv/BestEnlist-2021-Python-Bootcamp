@@ -7,3 +7,5 @@ Day5: Task was on Lists and Tuples and the functions around them.
 Day6: Task is on Dictioanries and sets.
 Day7: Functions.
 Day8: Tasks on all covered topics. 
+Day9: Excercises covering different programs.
+Day10:
