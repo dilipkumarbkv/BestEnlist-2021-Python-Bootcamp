@@ -9,4 +9,5 @@ Day7: Functions.
 Day8: Tasks on all covered topics. 
 Day9: Excercises covering different programs.
 Day10: Inheritance.
-Day11:
+Day11: Pip and Modules.
+Day12: File Operations.
