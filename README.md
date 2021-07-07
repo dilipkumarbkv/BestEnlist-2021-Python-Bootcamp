@@ -8,6 +8,6 @@ Day6: Task is on Dictioanries and sets.
 Day7: Functions.
 Day8: Tasks on all covered topics. 
 Day9: Excercises covering different programs.
-Day10: Inheritance.
+Day10: Inheritance ( using ecom and banking example).
 Day11: Pip and Modules.
 Day12: File Operations.
